@@ -11,12 +11,20 @@ a prediction. To overcome those two major limitations, we propose ten (10) AI te
 weekly, and monthly). The 10 techniques are implemented, tested, and evaluated with the MAE, RMSE, and CV metrics.
 
 ## Software requirements
-and have been implemented using Google Collab notebooks currently running Python 3.7.13, tensorflow 2.8.2, keras 2.8.0.
+All algorithms have been implemented using Google Collab notebooks currently running : 
 
-
-statsmodels-0.13.2
-pandas1.3.5
-matplotlib 3.2.2
+| Tool | version    | 
+| :---:   | :---: | 
+| Python  |  3.7.13  | 
+| tensorflow |  2.8.2  | 
+| keras |  2.8.0  | 
+| statsmodels | 0.13.2   |
+| pandas |  1.3.5  | 
+| matplotlib |  3.2.2  | 
+|  sklearn |  1.0.2  | 
+| numpy |  1.21.6  | 
+| seaborn | 0.11.2   |
+| scipy | 1.7.3  |   
 
 
 
