@@ -10,6 +10,23 @@ each uses its own datasets and preparation processes to perform
 a prediction. To overcome those two major limitations, we propose ten (10) AI techniques for the forecast of electricity prices using the same dataset related to the Portuguese market between 2017 and 2022. Our techniques are belonging to statistical, Machine Learning (ML), and Deep Learning (DL) approaches, at several temporal granularities (hourly, daily,
 weekly, and monthly). The 10 techniques are implemented, tested, and evaluated with the MAE, RMSE, and CV metrics.
 
+## Software requirements
+and have been implemented using Google Collab notebooks currently running Python 3.7.13, tensorflow 2.8.2, keras 2.8.0.
+
+
+statsmodels-0.13.2
+pandas1.3.5
+matplotlib 3.2.2
+
+
+
+
+
+
+
+
+
+
 ## Reproduce our work
 ### Code
 This repository contains the code of the algorithms used to implement electricity price forecasting as described in in the Paper - AI Approaches for Electricity Price Forecasting in
@@ -18,7 +35,7 @@ We implemented and evaluate three classes
 of AI techniques: statistical (STAT), Machine Learning (ML),
 and Deep Learning (DL), and in each class we consider the
 following methods: (i) STAT: ARIMA, HoltWinter, (ii) ML: Multiple Linear regression, SVM, Extreme Gradient Boosting, Random Forest and (iii) DL:
-LSTM. All algorithms can be found in the src file and have been implemented using Google Collab notebooks currently running Python 3.7.13, tensorflow 2.8.2, keras 2.8.0.
+LSTM. All algorithms can be found in the src file.
 
 ### Dataset
 
