@@ -26,16 +26,8 @@ All algorithms have been implemented using Google Collab notebooks currently run
 | seaborn | 0.11.2   |
 | scipy | 1.7.3  |   
 
-
-
-
-
-
-
-
-
-
 ## Reproduce our work
+
 ### Code
 This repository contains the code of the algorithms used to implement electricity price forecasting as described in in the Paper - AI Approaches for Electricity Price Forecasting in
 Stable/Unstable Markets: EU Improvement Project. 
