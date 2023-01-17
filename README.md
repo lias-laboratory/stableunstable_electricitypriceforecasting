@@ -52,3 +52,12 @@ Here are all our results obtained with the differents algorithms using the entir
 ![alt text](/docs/img/statistical_results_tables.png)
 ![alt text](/docs/img/machine_learning_algorithms.png)
 ![alt text](/docs/img/deep_learnig_results.png)
+
+## Software licence agreement
+
+Details the license agreement of StableUnstable_ElectricityPriceForecasting: [LICENCE](LICENCE)
+
+## Historic Contributors
+
+* [Ladjel BELLATRECHE](https://www.lias-lab.fr/members/bellatreche/)
+* Florian CHAUVET
