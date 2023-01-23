@@ -59,5 +59,6 @@ Details the license agreement of StableUnstable_ElectricityPriceForecasting: [LI
 
 ## Historic Contributors
 
+* Florian CHAUVET (core developer)
 * [Ladjel BELLATRECHE](https://www.lias-lab.fr/members/bellatreche/)
-* Florian CHAUVET
+
