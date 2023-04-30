@@ -55,7 +55,7 @@ Here are all our results obtained with the differents algorithms using the entir
 
 ## Software licence agreement
 
-Details the license agreement of StableUnstable_ElectricityPriceForecasting: [LICENCE](LICENCE)
+Details the license agreement of StableUnstable_ElectricityPriceForecasting: [LICENSE](LICENSE)
 
 ## Historic Contributors
 
